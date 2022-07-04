@@ -1,4 +1,4 @@
-# Criando uma aplicação Reac
+# Criando uma aplicação React
 
 Este projeto foi inicializado com [Create React App](https://github.com/facebook/create-react-app).
  Link do repositório 
