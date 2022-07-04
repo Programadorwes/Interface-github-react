@@ -24,7 +24,7 @@ export const WrapperFullName = styled.h2`
 `;
 
 export const WrapperLink = styled.a`
-  font-size: 16px;
+  font-size: 19px;
   font-weight: bold;
   margin: 8px 0;
   color: #3182ce;

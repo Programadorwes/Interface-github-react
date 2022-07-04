@@ -22,7 +22,7 @@ export const WrapperTab = styled(Tab)`
   user-select: none;
   cursor: pointer;
   z-index: 99999;
-  background-color: "#fff";
+  background-color: "#ffff";
   margin: 8px;
 
   &:focus {
